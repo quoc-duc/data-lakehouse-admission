@@ -16,6 +16,9 @@ This project is about building a **Data Lakehouse architecture** to store and an
 - **MinIO (S3-compatible storage)**
 - **Power BI**
 
+## Architecture
+
+
 ## Versions
 
 ### Docker Images
